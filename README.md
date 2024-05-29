@@ -1,1 +1,1 @@
-# master-ai-algorithm
+# master-ai-algo
