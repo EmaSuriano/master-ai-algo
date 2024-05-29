@@ -4,12 +4,13 @@
 
 Se precisa coordinar el doblaje de una película. Los actores del doblaje deben coincidir en las tomas en las que sus personajes aparecen juntos en las diferentes tomas. Los actores de doblaje cobran toda la misma cantidad por cada día que deben desplazarse hasta el estudio de grabación independientemente del número de tomas que se graben. No es posible grabar más de 6 tomas por día. El objetivo es planificar las sesiones por día de manera que el gasto por los servicios de los actores de doblaje sea el menor posible. Los datos son:
 
-Número de actores: 10
-Número de tomas : 30
-Actores/Tomas : https://bit.ly/36D8IuK
+### Datos
 
-- 1 indica que el actor participa en la toma
-- 0 en caso contrario
+- Número de actores: 10
+- Número de tomas : 30
+- Actores/Tomas : https://bit.ly/36D8IuK
+  - 1 indica que el actor participa en la toma
+  - 0 en caso contrario
 
 | Toma  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | Total |
 | ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ----- |
