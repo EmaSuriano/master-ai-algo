@@ -1,5 +1,7 @@
 # master-ai-algo
 
+> [Link al Google Colab](https://colab.research.google.com/github/EmaSuriano/master-ai-algo/blob/main/Seminario_Algoritmos.ipynb)
+
 ## Problema 1. Organizar sesiones de doblaje(I)
 
 - Se precisa coordinar el doblaje de una película. Los actores del doblaje deben coincidir en las tomas en las que sus personajes aparecen juntos en las diferentes tomas.
